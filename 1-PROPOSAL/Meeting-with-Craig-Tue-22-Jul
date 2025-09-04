@@ -1,0 +1,27 @@
+First Meeting with Craig McDonald - the EIT Timetable Coordinator.
+Craig will act as your client for this project, where you’ll be developing applications to assist him in collecting data from EIT to generate timetables.
+Craig discussed the current tools he uses — Syllabus Plus and TIGRS (access forms) — and mentioned his interest in replacing the TIGRS access forms with Excel-based applications for data collection.
+
+----------------------------------
+Some more details:
+-----------------------------------
++ 36 Access-based TiGrS forms to collect data (across all campuses: Taradale, Tarawhiti, Auckland, Hastings, ...)
++ 3 types of data-collect forms: "Programs", "Courses", "Activities"
+  "Program" form: List all programs, Buttons: "Save", "Delete", "See courses"
+  "Course" form: List of all courses, Buttons: "Save", "Delete", "Progess", "See activities"
+  "Activities" form: 
+    _List of all activity's types: 
+    _Types of tutorial: 
+    _Number of student:
+    _This activity lasts: (number of hours)
+    _Staff needed: (dropdown list of staff) - ****HE WANTS TO IMPROVE THIS FEATURE *****
+    _Room type desired: 
+        Campus: 
+        Preferred area:
+        3 dropdown attributes: (1) ..., (2)..., (3)....
+    _Select a preset time of day pattern: 
+        Ealiest start:
+        Latest start:
+    _What do you wnat to do with public holiday?
+    _Other programs:
+    _Any other comments: 
